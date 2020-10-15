@@ -10,5 +10,5 @@ package herramientas;
  * @author 52553
  */
 public class Logica {
-    
+    //en logica 
 }
